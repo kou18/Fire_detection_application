@@ -1,4 +1,4 @@
-# stage_prototype
+# Fire_detection_application
 
 This application implements a computer vision model capable of detecting a fire through video streaming
 
