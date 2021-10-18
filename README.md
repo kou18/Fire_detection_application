@@ -1,6 +1,6 @@
 # stage_prototype
 
-A new Flutter application.
+This application implements a computer vision model capable of detecting a fire through video streaming
 
 ## Getting Started
 
